@@ -1,0 +1,59 @@
+p.flashy{
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+  color:red;
+}
+
+.important {
+  color: red;
+}
+
+.unimportant{
+  color:blue;
+}
+
+p.best{
+  color:blue;
+  text-align:center;
+  font-style:sans-serif;
+}
+
+p.intro {
+  color: orange;
+  font-style: comic;
+  font-weight: bold;
+}
+
+h2.intro {
+  color: yellow;
+  font-style: arial;
+  text-style: italic;
+}
+
+img.intro {
+  width: 400px;
+  height: 400px;
+  float: left;
+}
+.word-latin{
+  color:green;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
+
+.sidebar {
+  float: right;
+  background-color: yellow;
+
+}
+
+.my-class{
+  border:4px solid orange;
+  padding:2px;
+  margin:4px;
+  background-color: yellow;
+}
